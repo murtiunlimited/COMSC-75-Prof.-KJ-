@@ -1,20 +1,8 @@
-/*
- * Murtaza Hussain
- * Jan 29, 2024
- * Assignment 1: Introduction to Java
- * In this file the program will output:
- * My name, 3 lines of a poem,
- * Few blank lines, My age, 
- * heart rate, and a simple result of multiplication 
- * 
- */
-
-
 public class Introduction {
 	
 	public static void main (String[] args) {
 		// Print My Name
-		System.out.println("My name is Murtaza Hussain");
+		System.out.println("My name is---");
 		System.out.println();
 		
 		// Printing My Favorite Poem
