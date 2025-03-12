@@ -1,12 +1,3 @@
-/*
- * Murtaza Hussain
- * February 19, 2025
- * Assignment 5: Cost Of Shipping
- * This program prompts the user to enter weight for a package
- * Then the program calculates the cost for shipping the package
- * When the weight is invalid, an error message is displayed
- */ 
- 
 import java.util.Scanner;
 
 public class Shipping {
