@@ -1,10 +1,3 @@
-/*
- * Murtaza Hussain
- * February 19, 2025
- * Assignment 8: Statistics
- * This program asks a user to enter a prices of an items or -1 when finished
- * Then it displays the standard deviation and average for the number of prices
- */
 import java.util.Scanner;
 
 public class Statistics {
