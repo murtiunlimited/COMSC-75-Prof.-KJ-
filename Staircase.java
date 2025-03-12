@@ -1,10 +1,3 @@
-/*
- * Murtaza Hussain
- * Feb 3, 2025
- * Assignment 2: Variables
- * This program asks the user to input measurements for a staircase
- * Then it calculates the amount of concrete necessary to build the staircase
- */
 
 import java.util.Scanner;
 
