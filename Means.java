@@ -1,11 +1,3 @@
-/*
- * Murtaza Hussain
- * February 7, 2025
- * Assignment 3: Methods
- * This program prompts the user for 3 numbers
- * The program calculates and displays 3 different types of means
- */
- 
 import java.util.Scanner;
 
 public class Means {
