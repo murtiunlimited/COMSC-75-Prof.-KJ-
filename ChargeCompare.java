@@ -1,11 +1,3 @@
-/*
- * Murtaza Hussain
- * February 24, 2025
- * Assignment 6: Comparing costs for charging an electric car
- * This program asks the user for the number of minutes to charge his car
- * Then the program calculates which company offers a cheaper price
- */
-
 import java.util.Scanner;
 
 public class ChargeCompare {
