@@ -1,10 +1,3 @@
-/*
-* Murtaza Hussain
-* February 24, 2025
-* Assignment 7: Perimeter of Triangle
-* This program prompts the user for side lengths of a triangle
-* Then the program calculates the perimeter if measurements are valid
-*/
 
 import java.util.Scanner;
 
